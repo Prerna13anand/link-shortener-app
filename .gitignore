@@ -1,0 +1,8 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore the database file
+database.db
+
+# Ignore ngrok configuration (if any)
+ngrok.yml
