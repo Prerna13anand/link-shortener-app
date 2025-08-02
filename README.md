@@ -2,9 +2,8 @@ QuickLink - URL Shortener & QR Code Generator
 A full-stack application that transforms long, cumbersome URLs into short, shareable links and instantly generates a corresponding QR code. Built with a Node.js & Express backend and a clean, responsive HTML & Tailwind CSS frontend.
 
 🚀 Live Demo
-You can try the live application here: https://your-app-name.onrender.com
+You can try the live application here: https://link-shortener-app-j2jl.onrender.com
 
-(Replace the link above with your actual Render URL!)
 
 ✨ Features
 Simple & Fast: A clean, single-page interface for quick link shortening.
