@@ -14,7 +14,7 @@ const app = express();
 const port = 3000;
 // This is the base URL for our shortened links.
 // In a real application, you would replace this with your actual domain.
-const baseUrl = ` https://27ef3d6c6b13.ngrok-free.app`;
+const baseUrl = `https://link-shortener-app-j2jl.onrender.com`;
 
 // --- 3. Setup Database ---
 // We're using SQLite, which is a simple file-based database.
